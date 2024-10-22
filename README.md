@@ -2,10 +2,9 @@
 
 ### Computer Engineering Student | Enthusiast in Machine Learning & Web Development
 
-- 🌱 I’m currently learning **Machine Learning**, **Full Stack Development**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://example.com) (replace with your URL)
-- 💬 Ask me about **Python**, **C++**, **JavaScript**, **NodeJS**
-- 📫 How to reach me: masrukh@example.com (replace with your email)
+- 🌱 I’m currently learning **Machine Learning**, **Research work**, **Full Stack Developmen**
+- 💬 Ask me about **Python**, **C++**, **JavaScript**, **NodeJS**, ****
+- 📫 How to reach me: masrukjim@gmail.com.com
 
 ---
 
