@@ -11,7 +11,6 @@
 ## Connect with me:
 <p align="left">
 <a href="https://facebook.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="https://dribbble.com/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"/></a>
 </p>
 
 ---
