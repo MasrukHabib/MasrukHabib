@@ -15,8 +15,8 @@ Feel free to reach out for collaboration, discussions, or just to say hello!
 - 📧 **Email**: masruk@example.com
 - 📱 **Phone**: +880 1999 1111 11
 - 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](#)
-- 🖥️ **Website**: [masrukhabib.com](#)
-- 🧑‍💻 **GitHub**: [github.com/masrukhabib](#)
+- 🖥️ **Website**: [https://masrukhabib.github.io/](Portfolio)
+- 🧑‍💻 **GitHub**: [https://github.com/MasrukHabib](MasrukHabib)
 
 ---
 
