@@ -10,16 +10,6 @@ I’m a dedicated **Engineering and Research Enthusiast** pursuing a **Bachelor 
 
 ---
 
-## 📬 Contact Me
-Feel free to reach out for collaboration, discussions, or just to say hello!  
-- 📧 **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
-- 📱 **Phone**: +880 1771931007
-- 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
-- 🌐 **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
-- 🧑‍💻 **GitHub**: [github.com/MasrukHabib](https://github.com/MasrukHabib)
-
----
-
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,7 +36,26 @@ Feel free to reach out for collaboration, discussions, or just to say hello!
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+---
+
+## 📬 Contact Me
+Feel free to reach out for collaboration, discussions, or just to say hello!  
+- 📧 **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
+- 📱 **Phone**: +880 1771931007
+- 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
+- 🌐 **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
+- 🧑‍💻 **GitHub**: [github.com/MasrukHabib](https://github.com/MasrukHabib)
 
 ---
 
