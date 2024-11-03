@@ -12,11 +12,11 @@ I’m a dedicated **Engineering and Research Enthusiast** pursuing a **Bachelor 
 
 ## 📬 Contact Me
 Feel free to reach out for collaboration, discussions, or just to say hello!  
-- 📧 **Email**: masruk@example.com
-- 📱 **Phone**: +880 1999 1111 11
-- 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](#)
-- 🖥️ **Website**: [https://masrukhabib.github.io/](Portfolio)
-- 🧑‍💻 **GitHub**: [https://github.com/MasrukHabib](MasrukHabib)
+- 📧 **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
+- 📱 **Phone**: +880 1771931007
+- 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
+- 🌐 **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
+- 🧑‍💻 **GitHub**: [github.com/MasrukHabib](https://github.com/MasrukHabib)
 
 ---
 
