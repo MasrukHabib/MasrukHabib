@@ -52,7 +52,6 @@ I’m a dedicated **Engineering and Research Enthusiast** pursuing a **Bachelor 
 ## 📬 Contact Me
 Feel free to reach out for collaboration, discussions, or just to say hello!  
 - 📧 **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
-- 📱 **Phone/WhatsApp**: +880 1771931007
 - 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
 - 🌐 **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
 
