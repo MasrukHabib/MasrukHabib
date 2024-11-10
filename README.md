@@ -1,5 +1,5 @@
 # 🌟 Masruk Habib 🌟
-**Computer Engineering Enthusiast | Driven by Innovation, Guided by Technology**
+*Driven by Innovation, Guided by Technology*
 
 Welcome to my GitHub! I'm **Masruk Habib**, a passionate engineer with a strong focus on **Machine Learning**, **Data Science**, and **Software Development**. My journey is all about creating meaningful tech solutions, and this repository highlights the projects I've worked on, my technical expertise, and my commitment to continuous learning.
 
