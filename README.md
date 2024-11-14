@@ -57,7 +57,7 @@ Feel free to reach out for collaboration, discussions, or just to say hello!
 
 ---
 
-__Thank you for visiting my GitHub profile! I hope my work inspires and helps you in your projects.__ 😊
+__Thank you for visiting my GitHub profile! I hope my work inspires and helps you in your projects.__😊
 
 ---
 
