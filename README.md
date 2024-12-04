@@ -1,12 +1,7 @@
 # 🌟 Masruk Habib 🌟
 *Driven by Innovation, Guided by Technology*
 
-Welcome to my GitHub! I'm **Masruk Habib**, a passionate engineer with a strong focus on **Machine Learning**, **Data Science**, and **Software Development**. My journey is all about creating meaningful tech solutions, and this repository highlights the projects I've worked on, my technical expertise, and my commitment to continuous learning.
-
----
-
-## 👋 About Me
-I’m a dedicated **Engineering and Research Enthusiast** pursuing a **Bachelor of Technology in Computer Engineering**. My mission is to leverage technology to solve real-world challenges and drive innovation. With experience in **research internships** and **mentorship roles**, my main interests lie in **Artificial Intelligence** and **Machine Learning**. I aim to contribute to the tech community and make a positive impact through cutting-edge research and practical applications.
+Welcome to my GitHub! I'm **Masruk Habib**, a passionate **Computer Engineering student** with a deep interest in **Machine Learning**, **Data Science**, and **Software Development**. My journey revolves around leveraging technology to solve real-world problems and create impactful solutions. With hands-on experience in **research internships**, **mentorship roles**, and a strong focus on **Artificial Intelligence**, I am committed to continuous learning and innovation. This repository showcases my technical expertise, diverse projects, and dedication to advancing the tech community through cutting-edge research and practical applications.
 
 ---
 
