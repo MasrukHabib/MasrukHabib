@@ -1,9 +1,7 @@
-# 🌟 Masruk Habib 🌟
+# Hi, I'm Masruk Habib 👋
 *Driven by Innovation, Guided by Technology*
 
-Welcome to my GitHub! I'm **Masruk Habib**, a passionate **Computer Engineering student** with a deep interest in **Machine Learning**, **Data Science**, and **Software Development**. My journey revolves around leveraging technology to solve real-world problems and create impactful solutions. With hands-on experience in **research internships**, **mentorship roles**, and a strong focus on **Artificial Intelligence**, I am committed to continuous learning and innovation. This repository showcases my technical expertise, diverse projects, and dedication to advancing the tech community through cutting-edge research and practical applications.
-
----
+I'm a passionate Computer Engineering student, researcher, and developer with a deep interest in Machine Learning, Data Science, and Software Development. My work revolves around leveraging technology to solve real-world problems and create impactful solutions. From research-based projects to full-stack development, I am always exploring new ways to push the boundaries of innovation.
 
 ## 🛠️ Skills
 
@@ -43,17 +41,8 @@ Welcome to my GitHub! I'm **Masruk Habib**, a passionate **Computer Engineering 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
 ## 📬 Contact Me
 Feel free to reach out for collaboration, discussions, or just to say hello!  
 - 📧 **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
 - 🌐 **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
-
----
-
-Thank you for visiting my GitHub profile! I hope my work inspires and helps you in your projects.😊
----
-© 2023 Masruk Habib. All rights reserved.
-
