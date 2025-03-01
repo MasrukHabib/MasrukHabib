@@ -4,7 +4,6 @@
 I'm a passionate Computer Engineering student, researcher, and developer with a deep interest in Machine Learning, Data Science, and Software Development. My work revolves around leveraging technology to solve real-world problems and create impactful solutions. From research-based projects to full-stack development, I am always exploring new ways to push the boundaries of innovation.
 
 ## 🛠️ Skills
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
