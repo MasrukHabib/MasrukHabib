@@ -42,6 +42,6 @@ I'm a passionate Computer Engineer, Researcher, and developer with a deep intere
 
 ## 📬 Contact Me
 Feel free to reach out for collaboration, discussions, or just to say hello!  
-- 📧 **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
-- 🌐 **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
+- **Email**: [masrukjim@gmail.com](mailto:masrukjim@gmail.com)
+- **LinkedIn**: [linkedin.com/in/masruk-habib](https://www.linkedin.com/in/masruk-habib)
+- **Portfolio**: [masrukhabib.github.io](https://masrukhabib.github.io)
